@@ -1,6 +1,0 @@
-        homepage(useState[postion,setposition]={default})
-    /                    \
-    geolocation            map
-
-    <geolocation setData={setposition}/>
-    <Map data={position}>
